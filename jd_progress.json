@@ -1,0 +1,41 @@
+{
+  "差评": {
+    "rounds_done": 15,
+    "completed": true,
+    "last_mode": "fold",
+    "fold_offset": 6,
+    "fold_type": "1",
+    "last_item_count": 5,
+    "last_url": "https://api.m.jd.com/client.action?appid=pc-rate-qa&t=1777992523140&uuid=1777987063097562071359&loginType=3&client=pc&clientVersion=1.0.0&body=%7B%22requestSource%22:%22pc%22,%22sku%22:%22100127936932%22,%22category%22:%22652%3B828%3B842%22,%22offset%22:%226%22,%22num%22:%2210%22,%22type%22:%221%22,%22isCurrentSku%22:false,%22shopType%22:%220%22,%22shopId%22:%221000004123%22%7D&functionId=getFoldCommentList&h5st=20260505224848143%3Bpziz2ybbab1j2py3%3B01a47%3Btk03wc3201ccb18n7uQ5i0ODywAUwsLVlnfVqFGawJMoq9ZOU3gpIL7dReEQHol1dTctmiWCkmzMPaH_9Ijl-CTRYPsU%3B1a5108989d8302c460eb58b3a56c20b7%3B5.3%3B1777992523143%3Bq3EpJLIg6zpfJrJdJnYOJipjLDrgJfYN7iIR6jVTJiVN5DURxqEjLDIj7SFjLrJp-LojxjJQIeFjLrJp-jZe7nYdJmYe1boS4rodIS1eKS1e2n1T0jle5jYeFSVezjpjxjpPl61SJW1OJrpjh7Jj7joe6bYTJeodJKYe4XIf7b4T7PoeIWYTFa4e0TYTHiIjLDIj4mFO9m1TJrpjh7Jj63JjLDIj3XETJrpjh7Jj4z5f9XIOMWlQCS1U2LFjLDIj1ipjLDrgJj0Y2uGR5eYThGlZJrJdJ31QHyVT5ipjLDrgJj4f9G1WJrJdJTlPJrpjh7ZMLrJpJbEaJrJdJfYf2iFjLrpjLDrg4rJdJnYf2iFjLrpjLDrg3nojxjpf6XETJrpjLrJp-LYgLDIj5nYOJipjLrpjh7Jj33pY1mUgAK2fAuWZTipjxjZQ8aFQKiEjLrpjLDrg7rJdJLYOJipjLrpjh7pfLDIj0XETJrpjLrJp-XIfLDIj1XETJrpjLrJp-rojxjZe2iFjLrpjLDrg7rJdJbYOJipjLrpjh7Zd4rJdJfYOJipjLrpjh7JjyzZf9rIjLDIj6XETJrpjLrJp-rojxj5R0ipjLrpjh7ZeLDIj46FjLrpjLDrg7rJdJ7FjLrpjLDrg7rJdJb1OJrpjLrJpwqJdJbFQGakNGipjLDrguqpjhj5eKiYd0Pod7r4T1HoeMaFRJrJdJjoPJrpjLrJpwqJdJrkPJrpjh7Jj3ToNL-oe1zVRUq5d7zpf6rpWdq5P0ulS9G1WJrJdJnVO4ipjLD7N%3Bfe5665366ef4a2e0df8f7b5db47f2d36%3BqbkgHGHQ8GlOIyVOF6JQ8G1P5WFW3yVSC61T-bEQGGlQI6ZNHuFT-bVR7qUT",
+    "page_index": 0,
+    "max_page": 0,
+    "has_next_page": true,
+    "last_first_time": "2024-09-22 18:15:40"
+  },
+  "中评": {
+    "rounds_done": 11,
+    "completed": true,
+    "last_mode": "fold",
+    "fold_offset": 5,
+    "fold_type": "2",
+    "last_item_count": 10,
+    "last_url": "https://api.m.jd.com/client.action?appid=pc-rate-qa&t=1777996017674&uuid=1777987063097562071359&loginType=3&client=pc&clientVersion=1.0.0&body=%7B%22requestSource%22:%22pc%22,%22sku%22:%22100127936932%22,%22category%22:%22652%3B828%3B842%22,%22offset%22:%225%22,%22num%22:%2210%22,%22type%22:%222%22,%22isCurrentSku%22:false,%22shopType%22:%220%22,%22shopId%22:%221000004123%22%7D&functionId=getFoldCommentList&h5st=20260505234702677%3Bpziz2ybbab1j2py3%3B01a47%3Btk03wc3201ccb18n7uQ5i0ODywAUwsLVlnfVqFGawJMoq9ZOU3gpIL7dReEQHol1dTctmiWCkmzMPaH_9Ijl-CTRYPsU%3B37202974552c7ba6456e4746f6fbc54d%3B5.3%3B1777996017677%3Bq3EpJLIg6zpfJrJdJnYOJipjLDrgJfYN7iIR6jVTJiVN5DURxqEjLDIj7SFjLrJp-LojxjJQIeFjLrJp-jZe7nYdJmYe1boS4rodIS1eKS1e2n1T0jle5jYeFSVezjpjxjpPl61SJW1OJrpjh7Jj7joe6bYTJeodJKYe4XIf7b4T7PoeIWYTFa4e0TYTHiIjLDIj4mFO9m1TJrpjh7Jj63JjLDIj3XETJrpjh7Jj4z5f9XIOMWlQCS1U2LFjLDIj1ipjLDrgJH4Z6_nWGeoYhiWgJrJdJ31QHyVT5ipjLDrgJj4f9G1WJrJdJTlPJrpjh7ZMLrJpJbEaJrJdJfYf2iFjLrpjLDrg4rJdJnYf2iFjLrpjLDrg3nojxjpf6XETJrpjLrJp-LYgLDIj5nYOJipjLrpjh7Jjga1XcqGVRe1f7TlR4jpjxjZQ8aFQKiEjLrpjLDrg7rJdJLYOJipjLrpjh7pfLDIj0XETJrpjLrJp-XIfLDIj1XETJrpjLrJp-rojxjZe2iFjLrpjLDrg7rJdJbYOJipjLrpjh7Zd2rJdJfYOJipjLrpjh7JjyzZf9rIjLDIj6XETJrpjLrJp-rojxj5R0ipjLrpjh7ZeLDIj46FjLrpjLDrg7rJdJ7FjLrpjLDrg7rJdJb1OJrpjLrJpwqJdJbFQGakNGipjLDrguqpjhj5eKiYd0Pod7r4T1HoeMaFRJrJdJjoPJrpjLrJpwqJdJrkPJrpjh7Jj3ToNL-oe1zVRUq5d7zpf6rpWdq5P0ulS9G1WJrJdJnVO4ipjLD7N%3B78d4c5bf19803d3fad8ea2aa25d7d0ea%3BqbkgHGHQ8GlOIyVOF6JQ8G1P5WFW3yVSC61T-bEQGGlQI6ZNHuFT-bVR7qUT",
+    "page_index": 0,
+    "max_page": 0,
+    "has_next_page": true,
+    "last_first_time": "2024-11-05 22:49:27"
+  },
+  "好评": {
+    "rounds_done": 25,
+    "completed": false,
+    "last_mode": "scroll",
+    "fold_offset": 0,
+    "fold_type": "",
+    "last_item_count": 10,
+    "last_url": "https://api.m.jd.com/client.action",
+    "page_index": 50,
+    "max_page": 100,
+    "has_next_page": true,
+    "last_first_time": "2025-06-03 18:54:13"
+  }
+}

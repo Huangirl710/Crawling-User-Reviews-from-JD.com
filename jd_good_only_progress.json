@@ -1,0 +1,41 @@
+{
+  "差评": {
+    "rounds_done": 0,
+    "completed": false,
+    "last_mode": "",
+    "fold_offset": 0,
+    "fold_type": "",
+    "last_item_count": 0,
+    "last_url": "",
+    "page_index": 0,
+    "max_page": 0,
+    "has_next_page": true,
+    "last_first_time": ""
+  },
+  "中评": {
+    "rounds_done": 0,
+    "completed": false,
+    "last_mode": "",
+    "fold_offset": 0,
+    "fold_type": "",
+    "last_item_count": 0,
+    "last_url": "",
+    "page_index": 0,
+    "max_page": 0,
+    "has_next_page": true,
+    "last_first_time": ""
+  },
+  "好评": {
+    "rounds_done": 30,
+    "completed": false,
+    "last_mode": "scroll",
+    "fold_offset": 0,
+    "fold_type": "",
+    "last_item_count": 10,
+    "last_url": "https://api.m.jd.com/client.action",
+    "page_index": 42,
+    "max_page": 65,
+    "has_next_page": true,
+    "last_first_time": "2025-10-22 19:14:27"
+  }
+}
